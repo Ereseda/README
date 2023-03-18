@@ -14,3 +14,4 @@ Estudo as seguintes linguagens: C, C++, C#, HTML5, CSS3, PHP e JAVASCRIPT.<br>
 </div>
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ereseda)](https://github.com/ereseda/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ereseda)](https://github.com/ereseda/github-readme-stats)
